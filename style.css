@@ -1,0 +1,4 @@
+.registros{
+    display: flex;
+    flex-direction: column;
+}
